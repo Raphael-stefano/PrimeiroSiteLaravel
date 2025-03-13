@@ -1,0 +1,24 @@
+/* Links de página normais */
+.pagination .page-link {
+    color: #fff; /* Vermelho (Bootstrap Danger) */
+    border-color: #dc3545;
+}
+
+/* Links de página no hover */
+.pagination .page-link:hover {
+    background-color: #dc3545;
+    color: #fff;
+    border-color: transparent;
+}
+
+/* Página ativa */
+.pagination .page-item.active .page-link {
+    background-color: #dc3545;
+    border-color: #dc3545;
+    color: #fff;
+}
+
+/*.carrinho-tr td{
+    padding-top: 50%;
+    color: red
+}*/

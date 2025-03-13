@@ -1,0 +1,3 @@
+//criar um model com migration, factory, seeder e controller com resource 
+php artisan make:model teste -mfscr
+
